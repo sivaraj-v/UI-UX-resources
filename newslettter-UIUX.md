@@ -1,0 +1,16 @@
+# Newsletter for UI&UX
+
+- [web-design-weekly.com](https://web-design-weekly.com/)
+- [webdesignerweekly.com](https://webdesignerweekly.com/)
+- [sidebar.io](https://sidebar.io/)
+- [dailyui](https://www.dailyui.co/)
+- [uilearn](https://uilearn.com/)
+- [freebiefriday](https://freebiefriday.xyz/)
+- [nirandfar](https://www.nirandfar.com/)
+- [uxdesignweekly](http://uxdesignweekly.com/)
+- [growth.design](https://growth.design/)
+- [letter.fizday](https://letter.fizday.com/)
+- [uiuxworldwide.blogspot](https://uiuxworldwide.blogspot.com/)
+- [designingui](https://designingui.com/)
+- []()
+- []()
